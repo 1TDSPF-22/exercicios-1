@@ -34,8 +34,4 @@ No nosso exercício, faremos:
 
 ## *<span style="color:red">Cada Exercício deve ser realizado em uma div separada</span>*
 
-<<<<<<< HEAD
 ## *<span style="color:red">Todos os procedimentos básicos devem ser realizados(Ex: criar uma branch paralela, boas práticas).</span>*
-=======
-## *<span style="color:red">Todos os procedimentos básicos devem ser realizados(Ex: criar uma branch paralela, boas práticas).</span>*
->>>>>>> d1204f2f73061dfdcda685fd810bdcf6c8888497
