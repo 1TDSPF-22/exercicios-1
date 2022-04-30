@@ -1,4 +1,4 @@
-> # _*<span style="color:blue">Exercícios</span>*_
+> # _*<font color='red'>Exercícios</font>*_
 > ## Siga as instruções abaixo para realizar o Exercícios
 
 ># *<span style="color:green">QUESTÕES</span>*
