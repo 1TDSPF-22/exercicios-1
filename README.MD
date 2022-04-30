@@ -1,7 +1,7 @@
->#*_Exercícios_*
->##Siga as instruções abaixo para realizar o Exercícios
+> # _*<span style="color:blue">Exercícios</span>*_
+> ## Siga as instruções abaixo para realizar o Exercícios
 
->#*QUESTÕES*
+># *<span style="color:green">QUESTÕES</span>*
 
 > 1. Crie uma página html padrão de nome index.html.
 > 2. Crie um arquivo JS externo de nome script.
@@ -31,5 +31,6 @@ No nosso exercício, faremos:
 > - Se o elemento atual for igual ao próximo, seguimos a iteração;
 > - Senão, a variável odd recebe o valor isolado.
 
-**Cada Exercício deve ser realizado em uma div separada
-**Todos os procedimentos básicos devem ser realizados(Ex: criar uma branch paralela, boas práticas).
+## *<span style="color:red">Cada Exercício deve ser realizado em uma div separada</span>*
+
+## *<span style="color:red">Todos os procedimentos básicos devem ser realizados(Ex: criar uma branch paralela, boas práticas).</span>*
