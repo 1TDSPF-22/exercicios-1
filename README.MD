@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 > # _*<font color='red'>Exercícios</font>*_
+=======
+> # _*<span style="color:blue">Exercícios</span>*_
+>>>>>>> d1204f2f73061dfdcda685fd810bdcf6c8888497
 > ## Siga as instruções abaixo para realizar o Exercícios
 
 ># *<span style="color:green">QUESTÕES</span>*
@@ -33,4 +37,8 @@ No nosso exercício, faremos:
 
 ## *<span style="color:red">Cada Exercício deve ser realizado em uma div separada</span>*
 
+<<<<<<< HEAD
 ## *<span style="color:red">Todos os procedimentos básicos devem ser realizados(Ex: criar uma branch paralela, boas práticas).</span>*
+=======
+## *<span style="color:red">Todos os procedimentos básicos devem ser realizados(Ex: criar uma branch paralela, boas práticas).</span>*
+>>>>>>> d1204f2f73061dfdcda685fd810bdcf6c8888497
