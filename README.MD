@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-> # _*<font color='red'>Exercícios</font>*_
-=======
-> # _*<span style="color:blue">Exercícios</span>*_
->>>>>>> d1204f2f73061dfdcda685fd810bdcf6c8888497
+> # _*Exercícios*_
+
 > ## Siga as instruções abaixo para realizar o Exercícios
 
 ># *<span style="color:green">QUESTÕES</span>*
